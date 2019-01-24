@@ -15,7 +15,7 @@ public class FirstJavaProgram {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("Hello to API Autimation");
-		System.out.println("There is a change");
+		System.out.println("There is a change for git hub");
 	}
 
 }
